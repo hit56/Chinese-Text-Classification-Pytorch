@@ -20,3 +20,5 @@ python run.py --model DPCNN
 
 # Transformer
 python run.py --model Transformer
+
+rm -rf __pycache__
